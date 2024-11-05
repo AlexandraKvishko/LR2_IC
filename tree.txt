@@ -1,0 +1,26 @@
+living_organism
+├── animal
+│   ├── mammal
+│   │   ├── cat
+│   │   ├── dog
+│   │   ├── elephant
+│   │   ├── lion
+│   │   ├── tiger
+│   │   ├── poodle
+│   │   └── bulldog
+│   ├── bird
+│   │   ├── eagle
+│   │   └── sparrow
+│   ├── fish
+│   │   ├── shark
+│   │   └── tuna
+│   ├── reptile
+│   │   ├── snake
+│   │   └── crocodile
+│   └── insect
+│       ├── ant
+│       └── beetle
+└── plant
+    ├── rose
+    ├── oak
+    └── pine
